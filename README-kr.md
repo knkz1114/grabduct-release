@@ -8,8 +8,8 @@ GrabDuct는 Chrome 브라우저의 탭에서 영상을 캡쳐하여 GPU텍스처
 
 | 컴포넌트 | 버전 |
 |---------------|-----------|
-| Chrome확장 프로그램 | 0.2.2 |
-| 리시버 프로그램 | 0.2.1 |
+| Chrome확장 프로그램 | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.2.4 |
+| 리시버 프로그램 | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.2.5 |
 
 ## 동작 환경
 

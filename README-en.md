@@ -8,8 +8,8 @@ GrabDuct is a tool that captures video from Chrome browser tabs and sends it as 
 
 | Component | Version |
 |-----------|---------|
-| Chrome Extension | 0.2.2 |
-| Receiver App | 0.2.1 |
+| Chrome Extension | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.2.4 |
+| Receiver App | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.2.5 |
 
 ## System Requirements
 

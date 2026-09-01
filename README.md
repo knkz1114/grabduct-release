@@ -8,8 +8,8 @@ GrabDuctは、Chromeブラウザのタブから映像をキャプチャし、GPU
 
 | コンポーネント | バージョン |
 |---------------|-----------|
-| Chrome拡張機能 | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.3.1 |
-| レシーバーアプリ | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.3.0 |
+| Chrome拡張機能 | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.3.3 |
+| レシーバーアプリ | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.3.1 |
 
 ## 動作環境
 
@@ -307,6 +307,13 @@ xattr -cr /Applications/GrabDuct\ Receiver.app
 - サーバーメンバーでなくなった場合は、Discordサーバーに再参加してログインし直す
 
 ---
+
+## ログファイル
+
+レシーバー v0.3.1 以降は動作ログをファイルに保存します(直近7日分)。不具合を報告する際は、このフォルダの内容を添えていただくと調査が早くなります。
+
+- **Windows**: `C:\Users\<ユーザー名>\AppData\Local\GrabDuct\logs`
+- **macOS**: `~/Library/Application Support/GrabDuct/logs`
 
 ## 設定ファイル
 

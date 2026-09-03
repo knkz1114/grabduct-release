@@ -8,8 +8,8 @@ GrabDuctは、Chromeブラウザのタブから映像をキャプチャし、GPU
 
 | コンポーネント | バージョン |
 |---------------|-----------|
-| Chrome拡張機能 | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.3.3 |
-| レシーバーアプリ | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.3.1 |
+| Chrome拡張機能 | https://github.com/knkz1114/grabduct-release/releases/tag/extension-v0.3.5 |
+| レシーバーアプリ | https://github.com/knkz1114/grabduct-release/releases/tag/receiver-v0.3.2 |
 
 ## 動作環境
 
